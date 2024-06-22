@@ -14,58 +14,21 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+# Our Webpage lock 
+### Home page (Step1) 
+<img width="1440" alt="Screenshot 2024-06-22 at 9 31 01 AM" src="https://github.com/Md-Azmir/Multi-Page-Form-By-React.js/assets/153702739/3f686961-252f-469f-9173-5ecde2a5fac2">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### /step2 page 
+<img width="1440" alt="Screenshot 2024-06-22 at 9 31 32 AM" src="https://github.com/Md-Azmir/Multi-Page-Form-By-React.js/assets/153702739/37ce314e-de3a-428b-aa09-1db733586ac2">
 
-### `npm run build`
+### /step3 page or Confirmation page
+<img width="1440" alt="Screenshot 2024-06-22 at 9 31 38 AM" src="https://github.com/Md-Azmir/Multi-Page-Form-By-React.js/assets/153702739/c14495cc-9f51-480f-b6a9-f953e9a147db">
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Navigation bar of our webpage
+<img width="350" alt="Screenshot 2024-06-22 at 9 40 38 AM" src="https://github.com/Md-Azmir/Multi-Page-Form-By-React.js/assets/153702739/c02f6bb0-836a-40c0-a4a8-ccab50807142">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Our data store in LocalStorage
+<img width="1440" alt="Screenshot 2024-06-22 at 9 43 13 AM" src="https://github.com/Md-Azmir/Multi-Page-Form-By-React.js/assets/153702739/7bf0183c-337e-4088-90fe-af1f1ede2ef7">
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Multi-Page-Form-By-React.js
